@@ -1,0 +1,19 @@
+.description-container
+{
+	max-width: 800px;
+	margin: 40px auto 20px;
+}
+.description-container p
+{
+	text-align: justify;
+}
+.description-container .floating-image
+{
+	max-width: 400px;
+}
+.description-container .floating-image.right
+{
+	float: right;
+	margin-left: 35px;
+	margin-bottom: 10px;
+}

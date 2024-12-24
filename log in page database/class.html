@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Courses</title>
+	<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="class1.css"> 
+</head>
+<body>
+
+  <section class="nav-bar">
+  <div class="nav-container">
+    <nav>
+      <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
+      <ul class="nav-list">
+        <li>
+          <a href="cal.html">CALCULATOR</a>
+        </li>
+        <li>
+          <a href="note taking page.html">STICKY NOTES</a>
+        </li>
+        <li>
+          <a href="PRE KG.html">PREKG</a>
+        </li>
+        <li>
+          <a href="#">CLASS 1</a>
+	  <ul class="nav-dropdown">
+            <li>
+              <a href="1std Tamil.html">Tamil</a>
+            </li>
+            <li>
+              <a href="1std English.html">English</a>
+            </li>
+            <li>
+              <a href="1std Maths.html">Mathematics</a>
+            </li>
+ 	    <li>
+              <a href="1std Science.html">Science</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">CLASS 2</a>
+          <ul class="nav-dropdown">
+            <li>
+              <a href="2std Tamil.html">Tamil</a>
+            </li>
+           <li>
+              <a href="2std English.html">English</a>
+            </li>
+            <li>
+              <a href="2std Maths.html">Mathematics</a>
+            </li>
+	   <li>
+              <a href="2std Science.html">Science</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#!">CLASS 3</a>
+	  <ul class="nav-dropdown">
+            <li>
+              <a href="3std Tamil.html">Tamil</a>
+            </li>
+            <li>
+              <a href="3std English.html">English</a>
+            </li>
+            <li>
+              <a href="3std Maths.html">Mathematics</a>
+            </li>
+           <li>
+              <a href="3std Science.html">Science</a>
+            </li>
+          </ul>
+    </nav>
+  </div>
+</section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script  src="function.js"></script>
+
+
+    <script type="text/javascript">
+      
+      /** code by webdevtrick ( https://webdevtrick.com ) **/
+(function($) { 
+  $(function() { 
+    $('nav ul li a:not(:only-child)').click(function(e) {
+      $(this).siblings('.nav-dropdown').toggle();
+      $('.dropdown').not($(this).siblings()).hide();
+      e.stopPropagation();
+    });
+    $('html').click(function() {
+      $('.nav-dropdown').hide();
+    });
+    $('#nav-toggle').click(function() {
+      $('nav ul').slideToggle();
+    });
+    $('#nav-toggle').on('click', function() {
+      this.classList.toggle('active');
+    });
+  }); 
+})(jQuery);
+    </script>
+</body>
+
+</html>
