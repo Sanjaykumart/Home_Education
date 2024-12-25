@@ -13,7 +13,7 @@ Home Education
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](C:\Users\Sanjaykumar.T\OneDrive\Desktop\EDUCATION FROM HOME\Home_Education\outputImages\Screenshot (1).png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
