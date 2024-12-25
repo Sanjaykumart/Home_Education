@@ -16,41 +16,49 @@ Home Education
 
 **•** Login and Registration Form
 
+
 <picture>
     <img alt="" src="outputImages/Screenshot (1).png">
-</picture><br/>
+</picture>
+
 
 **•** HomePage
 
 <picture>
     <img alt="" src="outputImages/Screenshot (4).png">
-</picture><br/>
+</picture>
+
 
 **•** Calculator
 
 <picture>
     <img alt="" src="outputImages/Screenshot (9).png">
-</picture><br/>
+</picture>
+
 
 **•** Sticky Notes
 
 <picture>
     <img alt="" src="outputImages/Screenshot (10).png">
-</picture><br/>
+</picture>
+
 
 **•** Subject Page
 
 <picture>
     <img alt="" src="outputImages/Screenshot (11).png">
-</picture><br/>
+</picture>
+
 
 **•** Class 1
 
 <picture>
     <img alt="" src="outputImages/Screenshot (1650).png">
-</picture><br/>
+</picture>
+
 
 **•** Database
+
 <picture>
     <img alt="" src="outputImages/Screenshot (12).png">
 </picture>
