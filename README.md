@@ -1,11 +1,12 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+<h3>HOME EDUCATION<h3>
 
 
-## 🚀 About Me
-I'm a full stack developer...
+## 🚀 About Project
+**•** Building a Comprehensive Learning Platform with HTML, CSS, Java, and JavaScript for the front end and the back end will be designed by MySQL service. 
+**•** To improve existing Home education for small children.
 
 
 ## Screenshots
@@ -16,12 +17,12 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Java, Jframe...
 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** NetBeans IDE 8.2
 
-**Server:** Node, Express
+**Server:** XAMPP, PhpMyAdmin
 
