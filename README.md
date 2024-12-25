@@ -13,7 +13,12 @@ Home Education
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Sanjaykumar.T\OneDrive\Desktop\EDUCATION FROM HOME\Home_Education\outputImages\Screenshot (1).png)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/outputImages/Screenshot (1).png">
+
+</picture>
+
+![App Screenshot](https://myoctocat.com/outputImages/Screenshot (1).png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
