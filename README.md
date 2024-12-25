@@ -20,11 +20,13 @@ Home Education
     <img alt="" src="outputImages/Screenshot (1).png">
 </picture>
 
+
 **•** HomePage
 
 <picture>
     <img alt="" src="outputImages/Screenshot (4).png">
 </picture>
+
 
 **•** Calculator
 
@@ -32,11 +34,13 @@ Home Education
     <img alt="" src="outputImages/Screenshot (9).png">
 </picture>
 
+
 **•** Sticky Notes
 
 <picture>
     <img alt="" src="outputImages/Screenshot (10).png">
 </picture>
+
 
 **•** Subject Page
 
@@ -44,11 +48,13 @@ Home Education
     <img alt="" src="outputImages/Screenshot (11).png">
 </picture>
 
+
 **•** Class 1
 
 <picture>
     <img alt="" src="outputImages/Screenshot (1650).png">
 </picture>
+
 
 **•** Database
 
