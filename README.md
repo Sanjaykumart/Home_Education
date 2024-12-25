@@ -14,7 +14,7 @@ Home Education
 ## Screenshots
 
 <picture>
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/outputImages/Screenshot (1).png">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="outputImages/Screenshot (1).png">
 </picture>
 
 ![App Screenshot](https://myoctocat.com/outputImages/Screenshot (1).png)
