@@ -1,7 +1,7 @@
 
 # Project Title
 
-<h3>HOME EDUCATION<h3>
+HOME EDUCATION
 
 
 ## 🚀 About Project
