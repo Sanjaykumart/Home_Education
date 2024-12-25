@@ -65,12 +65,12 @@ Home Education
 
 
 ## 🛠 Skills
-Java, Jframe...
+HTML, CSS, JAVASCRIPT, Bootstrap, Php...
 
 
 ## Tech Stack
 
-**Client:** NetBeans IDE 8.2
+**Client:** VSCode
 
 **Server:** XAMPP, PhpMyAdmin
 
