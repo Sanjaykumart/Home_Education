@@ -18,46 +18,39 @@ Home Education
 
 <picture>
     <img alt="" src="outputImages/Screenshot (1).png">
-</picture>
-
+</picture><br/>
 
 **•** HomePage
 
 <picture>
     <img alt="" src="outputImages/Screenshot (4).png">
-</picture>
-
+</picture><br/>
 
 **•** Calculator
 
 <picture>
     <img alt="" src="outputImages/Screenshot (9).png">
-</picture>
-
+</picture><br/>
 
 **•** Sticky Notes
 
 <picture>
     <img alt="" src="outputImages/Screenshot (10).png">
-</picture>
-
+</picture><br/>
 
 **•** Subject Page
 
 <picture>
     <img alt="" src="outputImages/Screenshot (11).png">
-</picture>
-
+</picture><br/>
 
 **•** Class 1
 
 <picture>
     <img alt="" src="outputImages/Screenshot (1650).png">
-</picture>
-
+</picture><br/>
 
 **•** Database
-
 <picture>
     <img alt="" src="outputImages/Screenshot (12).png">
 </picture>
