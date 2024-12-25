@@ -22,7 +22,7 @@ Home Education
 </picture>
 
 
-**•** HomePage
+**•** Home Page
 
 <picture>
     <img alt="" src="outputImages/Screenshot (4).png">
